@@ -1,5 +1,8 @@
 
-<head>
+<head> .repository-name {
+    color: #f8f5f0 !important; /* Cambia el color para que coincida con el fondo */
+    text-decoration: none !important; /* Elimina el subrayado */
+}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Validación de Opinión del SAT</title>
