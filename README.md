@@ -68,7 +68,10 @@
             color: #333; /* Texto oscuro para el footer */
             font-size: 14px;
         }
-    </style>
+    </style> /* Ocultar el nombre del repositorio */
+.repository-name {
+    display: none;
+}
 </head>
 <body>
     <div class="header">
